@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimEnglart&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
 HTML         8 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.35 % 
