@@ -1,11 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimEnglart&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-HTML         9 hrs 31 mins   █████████████▒░░░░░░░░░░░   52.89 % 
-JavaScript   3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
-C            1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-YAML         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Python       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+HTML         1 hr 24 mins    ████████▓░░░░░░░░░░░░░░░░   34.76 % 
+JavaScript   1 hr 23 mins    ████████▓░░░░░░░░░░░░░░░░   34.38 % 
+JSON         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+YAML         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 <!--END_SECTION:waka-->
 
