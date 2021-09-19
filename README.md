@@ -26,8 +26,11 @@ No Activity tracked this Week
 - Rust
 
 ### ⭐ Learning in the Future
+- Lua
 - Shell
 - Assembly
+- Ruby
 - Vue
 - Svelte
 - React Redux / Native
+- ✝️️ HolyC
