@@ -5,17 +5,29 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<!--
-**TimEnglart/TimEnglart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Language Checklist
 
-Here are some ideas to get you started:
+### ✅ Competent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Javascript / Typescript
+    - React 
+    
+- HTML / CSS / SCSS
+- Java
+- Python
+- PHP
+
+### 🚧 Want to Improve
+- C / C++
+
+### ✏️ Learning
+- Go
+- Rust
+
+### ⭐ Learning in the Future
+- Shell
+- Assembly
+- Vue
+- Svelte
+- React Redux / Native
