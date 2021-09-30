@@ -27,7 +27,7 @@
 
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="48" title="Vue.js"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="48" title="Next.js"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="48" title="GRPC"/></a>
+<a href="https://grpc.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" height="48" title="GRPC"/></a>
 
 
 ## ⭐ Learning in the Future
