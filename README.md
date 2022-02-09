@@ -24,6 +24,7 @@
 
 <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="48" title="Go"/></a>
 <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="48" title="Rust"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="48" title="Dart"/></a>
 
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="48" title="Vue.js"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="48" title="Next.js"/></a>
@@ -35,7 +36,6 @@
 <a href="https://www.lua.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="48" title="Lua" /></a>
 <a href="https://www.ruby-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="48" title="Ruby"/></a>
 <a href="https://elixir-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="48" title="Elixir"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="48" title="Dart"/></a>
 <a href="https://templeos.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/HolyC_Logo.svg" alt="holyc" width="48" title="Holy C"/></a>
 <a href="https://www.nasm.org/" target="_blank"><img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/NASM.svg" alt="holyc" width="48" title="x86/x64/ARM Assembly"/></a>
 
