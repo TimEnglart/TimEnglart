@@ -35,8 +35,6 @@
 <a href="https://www.lua.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="48" title="Lua" /></a>
 <a href="https://www.ruby-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="48" title="Ruby"/></a>
 <a href="https://elixir-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="48" title="Elixir"/></a>
-<a href="https://templeos.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/HolyC_Logo.svg" alt="holyc" width="48" title="Holy C"/></a>
-<a href="https://www.nasm.org/" target="_blank"><img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/NASM.svg" alt="holyc" width="48" title="x86/x64/ARM Assembly"/></a>
 
 <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="48" title="Nuxt.js"/></a> <a href="https://svelte.dev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="48" title="Svelte"/></a>
 <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" title="Redux"/></a>
